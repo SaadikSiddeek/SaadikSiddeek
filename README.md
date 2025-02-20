@@ -8,8 +8,9 @@ I am a **Software Engineer** skilled in creating efficient, scalable, and user-f
 
 ## 💡 Skills  
 ### Programming & Development  
-- 🌐 **Web Development**: HTML, CSS, JavaScript  
-- 🔧 **Back-End**: Python, PHP, C#  
+- 🌐 **Front-End Development**: HTML, CSS, JavaScript  
+- 🔧 **Back-End**: Python, PHP, C#, Java
+- 🏗️ **Frameworks**: React.js, .Net 
 - 🗄️ **Databases**: MySQL  
 - 🎨 **UI/UX Design**: Figma, Adobe XD  
 
